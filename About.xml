@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <ModMetaData>
+  <name>Arcamalian Races</name>
+  <author>KRR</author>
+  <supportedVersions>
+   <li>1.3</li>
+  </supportedVersions>
+  <packageId>KRR.ArcamalianRaces</packageId>
+  <url></url>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+	</li>
+  </modDependencies>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+  </loadAfter>
+  <description>
+  ☆★ NOTE ★☆
+  This mod is still under development. Items and status may be changed or added without notice.
+  In addition, English sentences are created using machine translation. Therefore, there may be grammatical mistakes and inaccurate expressions.
+  
+  
+  Add the "Arcamalians," a race of beast-eared humans based on various animal motifs.
+  Currently, three subspecies of Arcamalian have been identified. Each has a unique race name and different strengths and weaknesses.
+  For details, please see the summary of each.
+  
+  --Explanation of Arcamalian races--
+  Their ancestors were originally humans living on the earth, but over the years of 3000 years, they have incorporated the characteristics of various animals into the human body. Some seem to have awakened to paranormal powers in the process of their evolution.
+  Throughout their long history, they have been involved in conflicts and persecuted many times, but their lineage has not been interrupted. Because they had physical abilities that surpassed humans and a wealth of knowledge that was passed down from generation to generation.
+  Eventually, they became as large as humans, scattered in various star areas of the universe, and formed communities of various sizes.
+  Even in this era, they "Arcamalians" live somewhere in the vast universe, hoping for eternal prosperity and peace.
+  
+  They look adorable because they have distinctive ears and tails. Please love them!
+  
+  
+  「アルカマリアン」と呼ばれる、様々な動物をモチーフにした獣耳人間種族を追加します。
+  現在、3種類のアルカマリアン亜種が確認されています。それぞれに固有の種族名があり、得意・不得意が分かれています。
+  詳しくはそれぞれの概要欄をご覧ください。
+  
+  なお、このMODは開発途中です。
+  予告なくアイテムやステータスの変更・追加が行われる場合がございます。予めご了承ください。
+  また、英語の文章は機械翻訳を用いて作成されています。そのため、文法間違いや不正確な表現があるかもしれません。
+  
+  ～種族全体の説明～
+  彼らの先祖は元々地球に生息するヒトでしたが、3000年もの長い年月をかけて、様々な動物の特徴をヒトの肉体に取り込んでいきました。中には、その進化の過程で超常的な力に目覚めた者もいるようです。
+  長い歴史の中で、幾度も争いに巻き込まれたり迫害を受けたりしましたが、彼らの血筋が途絶えることはありませんでした。彼らにはヒトを凌駕する身体能力と先祖代々受け継がれた豊富な知識が備わっていたためです。
+  やがてヒトに比肩するほどの大勢力となった彼らは、宇宙の様々な星域に散らばり、大小様々なコミュニティを形成するようになりました。
+  この時代も彼ら「アルカマリアン」は広い宇宙のどこかで、永久の繁栄と平和を願いながら暮らしています。
+  
+  彼らは特徴的な耳と尻尾を持つため、愛らしく見えます。可愛がってあげてください！
+  </description>
+ </ModMetaData>
